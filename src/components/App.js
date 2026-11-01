@@ -1,5 +1,5 @@
-import Navbar from "../components/Navbar"
-import Product from "../components/Products"
+import Navbar from "../components/navbar"
+import Product from "../components/Product"
 import Search from "../components/search"
 import About from "../components/about"
 import Footer from "../components/footer"
